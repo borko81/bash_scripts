@@ -7,5 +7,5 @@ else
 fi
 
 # Export outside parameter
-#export ADDRESS
-#echo $ADDRESS
+export ADDRESS
+echo $ADDRESS
