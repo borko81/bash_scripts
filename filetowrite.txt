@@ -1,0 +1,10 @@
+LICENSE
+check_is_root.sh
+filetowrite.txt
+ifs_example.sh
+parameter_to_script.sh
+simple_arithmetic.sh
+test_file_thing.sh
+variables_example.sh
+while_loop.sh
+while_two.sh
